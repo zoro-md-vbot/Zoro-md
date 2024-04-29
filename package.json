@@ -1,15 +1,15 @@
 {
-    "name": "Jarvis",
+    "name": "Zoro",
     "version": "0.6.9",
     "description": "A simple WhatsApp Bot Based On WhiskeySockets/Baileys",
     "main": "index.js",
     "scripts": {
-        "start": "pm2 start . --attach --name jarvis",
-        "stop": "pm2 stop jarvis"
+        "start": "pm2 start . --attach --name zoro",
+        "stop": "pm2 stop zoro"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Loki-Xer/Jarvis-md.git"
+        "url": "git+https://github.com/zoro-md-vbot/zoro-md.git"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
