@@ -13,7 +13,7 @@ const {
   axios,
   isUrl,
   System,
-  LokiXer,
+  Zoromd,
   getJson,
   postJson,
   isPrivate,
