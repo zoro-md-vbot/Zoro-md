@@ -1,23 +1,23 @@
 {
-    "name": "Jarvis",
-    "version":"1.0.0",
+    "name": "Zoro",
+    "version":"2.0.0",
     "description": "Jarvis Multi Device whatsappbot",
-    "logo": "https://i.imgur.com/PmfMtfa.jpeg",
+    "logo": "https://i.imgur.com/94pCRjc.jpeg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/Loki-Xer/Jarvis",
-    "website": "https://github.com/Loki-Xer/Jarvis",
-    "success_url": "https://github.com/Loki-Xer/Jarvis",
+    "repository": "https://github.com/zoro-md-vbot/zoro",
+    "website": "https://github.com/zoro-md-vbot/zoro",
+    "success_url": "https://github.com/zoro-md-vbot/zoro",
     "stack": "container",
     "env": {
         "BOT_INFO": {
             "description": "botname;ownername;ownernumber;image url",
             "required": true,
-            "value":"ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://i.imgur.com/VIpl3q5.mp4"
+            "value":"👻 ᝃ𑁍／ɀᴇʀꪮ  𝑆ᥱ𐑾 •⥬³³³¯👻;https://i.imgur.com/CILQ4aC.mp4"
         },
         "AUDIO_DATA": {
             "description": "audio package name",
             "required": true,
-            "value":"ʟᴏᴋɪ-xᴇʀ;ᴊᴀʀᴠɪꜱ;https://i.imgur.com/VgxJeCm.jpeg"
+            "value":"𑁍／ɀᴇʀꪮ  𝑆ᥱ𐑾 •⥬³³³;https://i.imgur.com/VgxJeCm.jpeg"
         },
         "WARN_COUNT": {
             "description": "warn count",
@@ -37,7 +37,7 @@
         "MEDIA_DATA": {
             "description": "media data that uses in list",
             "required": true,
-            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;ᴊᴀʀᴠɪꜱ-ᴍᴅ;https://i.imgur.com/ltPPMTh.jpeg"
+            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;𑁍／ɀᴇʀꪮ  𝑆ᥱ𐑾 •⥬³³³;https://i.imgur.com/VgxJeCm.jpeg"
         },
         "HANDLER": {
             "description": "handler for bot. all so can be null or false",
@@ -64,12 +64,12 @@
         "STICKER_PACKNAME": {
             "description": "sticker package name",
             "required": true,
-            "value":"ʟᴏᴋɪ;ᴊᴀʀᴠɪꜱ"
+            "value":"𑁍／ɀᴇʀꪮ  𝑆ᥱ𐑾 •⥬³³³;"
         },
         "SUDO": {
             "description": "owner number of the bot",
             "required": false,
-            "value":"41782221168"
+            "value":"919778158839"
         }
     },
       "addons": [{
